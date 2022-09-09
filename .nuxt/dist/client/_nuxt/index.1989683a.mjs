@@ -1,0 +1,1 @@
+import{d as t}from"./index.ad84256c.mjs";import{a,B as e,k as i,o as n,b as o}from"./entry.4f650c1e.mjs";const m=a({__name:"index",setup(r){return t(),e(),e(),i({title:"",material:"",price:0,description:"",initialQuantity:0}),(s,c)=>(n(),o("div"))}});export{m as default};

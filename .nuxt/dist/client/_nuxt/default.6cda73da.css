@@ -1,0 +1,1 @@
+.grow{transition:all .2s ease-in-out}.grow:hover{transform:scale(1.1)}.max-lines-1{max-height:1.5em}.max-lines-1,.max-lines-2{word-wrap:break-word;display:block;line-height:1.6em;overflow:hidden;text-overflow:ellipsis}.max-lines-2{max-height:3.2em}
